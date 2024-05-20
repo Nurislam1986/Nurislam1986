@@ -10,3 +10,9 @@
 Nurislam1986/Nurislam1986 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+Dear Sir,
+I am Md. Nur Alam from Bangladesh. My Pi account name has been written wrongly Nurslam Islam. Please correctly written by my name for kyc. 
+
+Yours faithfully
+
+Md. Nur Alam
